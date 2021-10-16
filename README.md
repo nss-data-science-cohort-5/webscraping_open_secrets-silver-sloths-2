@@ -15,11 +15,11 @@ In this part, you will obtain as much data as you can on the campaign contributi
 2. Once you have working code for Tennessee's 2nd District, expand on your code to capture all of Tennessee's districts.
 3. Once you have working code for all of Tennessee's districts, expand on it to capture all states and districts. The number of representatives each state has can be found in a table on this page: https://www.britannica.com/topic/United-States-House-of-Representatives-Seats-by-State-1787120
 4. Using your scraped data, investigates different relationships between candidates and the amount of money they raised. Here are some suggestions to get you started, but feel free to pose you own questions or do additional exploration:  
-    a. How often does the candidate who raised more money win a race?  
-    b. How often does the candidate who spent more money win a race?  
-    c. Does the difference between either money raised or money spent seem to influence the likelihood of a candidate winning a race?  
-    d. How often does the incumbent candidate win a race?  
-    e. Can you detect any relationship between amount of money raised and the incumbent status of a candidate?
+    a. How often does the candidate who raised more money win a race? (Yvonne)
+    b. How often does the candidate who spent more money win a race? (Yvonne)
+    c. Does the difference between either money raised or money spent seem to influence the likelihood of a candidate winning a race? (Habeeb)
+    d. How often does the incumbent candidate win a race? (Habeeb)
+    e. Can you detect any relationship between amount of money raised and the incumbent status of a candidate? (Joshua)
 
 ### Bonus Questions:
 If you complete all of the above, you can attempt these challenging bonus questions.
