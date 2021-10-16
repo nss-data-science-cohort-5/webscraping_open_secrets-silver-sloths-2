@@ -1,0 +1,895 @@
+,Unnamed: 0,name,raised,spent,state,district,party,incumbent,race
+0,0,Jerry Carl ,1971321,1859349,AL,1,R,False,True
+1,1,James Averhart,80095,78973,AL,1,D,False,False
+2,2,Barry Moore ,650807,669368,AL,2,R,False,True
+3,3,Phyllis Harvey-Hall,56050,55988,AL,2,D,False,False
+4,4,Mike D Rogers ,1193111,1218564,AL,3,D,True,True
+5,5,Adia Winfrey,50273,40971,AL,3,D,False,False
+6,6,Robert B Aderholt ,1255076,1323812,AL,4,B,True,True
+7,7,Rick Neighbors,46068,45034,AL,4,D,False,False
+8,8,Mo Brooks ,655365,210045,AL,5,R,True,True
+9,9,Gary Palmer ,907219,909082,AL,6,R,True,True
+10,10,Terri Sewell ,2168165,1495957,AL,7,D,True,True
+11,11,Don Young ,1922901,1790448,AK,1,R,True,True
+12,12,Alyse Galvin,5178452,5088103,AK,1,I,False,False
+13,13,Tom O'Halleran ,3381353,3324138,AZ,1,O,True,True
+14,14,Tiffany Shedd,1675618,1615704,AZ,1,R,False,False
+15,15,Ann Kirkpatrick ,1849862,1384765,AZ,2,D,True,True
+16,16,Brandon Martin,374821,381067,AZ,2,R,False,False
+17,17,Raul M Grijalva ,843560,655507,AZ,3,M,True,True
+18,18,Daniel Wood,41422,41962,AZ,3,R,False,False
+19,19,Paul Gosar ,622151,729892,AZ,4,R,True,True
+20,20,Delina DiSanto,77168,79758,AZ,4,D,False,False
+21,21,Andy Biggs ,1602181,1236380,AZ,5,R,True,True
+22,22,Joan Greene,356069,209789,AZ,5,D,False,False
+23,23,David Schweikert ,2265329,2249979,AZ,6,R,True,True
+24,24,Hiral Tipirneni,6301073,6366702,AZ,6,D,False,False
+25,25,Tom Lewellen,11685,11000,AZ,6,I,False,False
+26,26,Ruben Gallego ,1811754,1653961,AZ,7,D,True,True
+27,27,Josh Barnett,28093,17883,AZ,7,R,False,False
+28,28,Debbie Lesko ,1605245,987453,AZ,8,R,True,True
+29,29,Michael Muscato,357906,347734,AZ,8,D,False,False
+30,30,Greg Stanton ,2001619,1001350,AZ,9,D,True,True
+31,31,Dave Giles,130480,129935,AZ,9,R,False,False
+32,32,Rick Crawford ,966801,1095518,AR,1,R,True,True
+33,33,French Hill ,3384490,3020491,AR,2,R,True,True
+34,34,Joyce Elliott,3482463,3478733,AR,2,D,False,False
+35,35,Steve Womack ,1127158,923120,AR,3,R,True,True
+36,36,Celeste Williams,355294,355294,AR,3,D,False,False
+37,37,Bruce Westerman ,1407770,1102573,AR,4,R,True,True
+38,38,William Hanson,109767,111683,AR,4,D,False,False
+39,39,Doug LaMalfa ,1219556,1155945,CA,1,R,True,True
+40,40,Audrey Denney,2461769,2457661,CA,1,D,False,False
+41,41,Jared Huffman ,899419,797753,CA,2,D,True,True
+42,42,Dale Mensing,5921,2197,CA,2,R,False,False
+43,43,John Garamendi ,1054066,667320,CA,3,D,True,True
+44,44,Tamika Hamilton,397099,384584,CA,3,R,False,False
+45,45,Tom McClintock ,2053363,2107248,CA,4,R,True,True
+46,46,Brynne Kennedy,3006020,3002532,CA,4,D,False,False
+47,47,Mike Thompson ,2208136,2022751,CA,5,D,True,True
+48,48,Doris Matsui ,1019605,1073529,CA,6,D,True,True
+49,49,Christine Bish,44772,44554,CA,6,R,False,False
+50,50,Ami Bera ,1757748,1053444,CA,7,D,True,True
+51,51,Buzz Patterson,43876,29614,CA,7,R,False,False
+52,52,Jay Obernolte ,1861647,1792064,CA,8,R,False,True
+53,53,Chris Bubser,1858001,1856613,CA,8,D,False,False
+54,54,Jerry McNerney ,1177959,1112543,CA,9,D,True,True
+55,55,Tony Amador,52175,52175,CA,9,R,False,False
+56,56,Josh Harder ,7400135,3950613,CA,10,D,True,True
+57,57,Ted Howze,1426552,1721882,CA,10,R,False,False
+58,58,Mark Desaulnier ,610394,440537,CA,11,D,True,True
+59,59,Nisha Sharma,174954,171870,CA,11,R,False,False
+60,60,Nancy Pelosi ,27359508,22064953,CA,12,D,True,True
+61,61,Shahid Buttar,1672876,1650467,CA,12,D,False,False
+62,62,Barbara Lee ,1828213,1750142,CA,13,D,True,True
+63,63,Nikka Piterman,9839,9904,CA,13,R,False,False
+64,64,Jackie Speier ,942934,919599,CA,14,D,True,True
+65,65,Eric Swalwell ,2807774,3977839,CA,15,D,True,True
+66,66,Jim Costa ,2135525,1835244,CA,16,D,True,True
+67,67,Kevin Cookingham,265364,265364,CA,16,R,False,False
+68,68,Ro Khanna ,3837982,2455457,CA,17,D,True,True
+69,69,Ritesh Tandon,175536,175015,CA,17,R,False,False
+70,70,Anna Eshoo ,2114909,2059158,CA,18,D,True,True
+71,71,Rishi Kumar,674383,691938,CA,18,D,False,False
+72,72,Zoe Lofgren ,1755555,1731700,CA,19,D,True,True
+73,73,Justin Aguilera,9112,11542,CA,19,R,False,False
+74,74,Jimmy Panetta ,2009894,1592671,CA,20,D,True,True
+75,75,Jeff Gorman,67634,64947,CA,20,R,False,False
+76,76,TJ Cox ,5695157,5694005,CA,21,D,True,False
+77,77,David Valadao ,4067880,3982587,CA,21,R,False,True
+78,78,Devin Nunes ,26825212,20156093,CA,22,R,True,True
+79,79,Phil Arballo,5091451,5062185,CA,22,D,False,False
+80,80,Kevin McCarthy ,27780644,24265583,CA,23,R,True,True
+81,81,Kim Mangone,1671101,1665373,CA,23,D,False,False
+82,82,Salud Carbajal ,2117836,1451622,CA,24,D,True,True
+83,83,Andy Caldwell,1298798,1268199,CA,24,R,False,False
+84,84,Mike Garcia ,9962507,9584648,CA,25,R,True,True
+85,85,Christy Smith,5977734,5808477,CA,25,D,False,False
+86,86,Julia Brownley ,1976695,1314677,CA,26,D,True,True
+87,87,Ronda Kennedy,246226,67208,CA,26,R,False,False
+88,88,Judy Chu ,1213706,956298,CA,27,D,True,True
+89,89,Johnny Nalbandian,39584,39159,CA,27,R,False,False
+90,90,Adam Schiff ,19382855,10188664,CA,28,D,True,True
+91,91,Eric Early,4085322,3790027,CA,28,R,False,False
+92,92,Tony Cardenas ,1419697,1213588,CA,29,D,True,True
+93,93,Angelica Duenas,78083,76627,CA,29,3,False,False
+94,94,Brad Sherman ,1513374,1111826,CA,30,D,True,True
+95,95,Pete Aguilar ,2475748,1861434,CA,31,D,True,True
+96,96,Agnes Gibboney,138687,127907,CA,31,R,False,False
+97,97,Grace Napolitano ,478426,251047,CA,32,D,True,True
+98,98,Joshua Scott,23624,14248,CA,32,R,False,False
+99,99,Ted Lieu ,1661436,1582573,CA,33,D,True,True
+100,100,James Bradley,78910,79035,CA,33,R,False,False
+101,101,Jimmy Gomez ,1401166,1268312,CA,34,D,True,True
+102,102,David Kim,193430,80381,CA,34,D,False,False
+103,103,Norma Torres ,654727,664600,CA,35,D,True,True
+104,104,Mike Cargile,36113,35915,CA,35,R,False,False
+105,105,Raul Ruiz ,2402624,1732443,CA,36,D,True,True
+106,106,Erin Cruz,54217,53840,CA,36,R,False,False
+107,107,Karen Bass ,2216467,1202942,CA,37,D,True,True
+108,108,Errol Webber,66398,174076,CA,37,R,False,False
+109,109,Linda Sanchez ,1246008,1140165,CA,38,D,True,True
+110,110,Gil Cisneros ,4370133,4350464,CA,39,D,True,False
+111,111,Young Kim ,6424556,6021651,CA,39,R,False,True
+112,112,Lucille Roybal-Allard ,739790,741379,CA,40,D,True,True
+113,113,Antonio Delgado,85014,79270,CA,40,R,False,False
+114,114,Mark Takano ,1020456,949494,CA,41,D,True,True
+115,115,Aja Smith,660658,659909,CA,41,R,False,False
+116,116,Ken Calvert ,1441812,1549113,CA,42,R,True,True
+117,117,Liam O'Mara,130065,128782,CA,42,O,False,False
+118,118,Maxine Waters ,1836660,1906957,CA,43,D,True,True
+119,119,Joe Collins,10556626,9921103,CA,43,R,False,False
+120,120,Nanette Barragan ,1173909,714023,CA,44,D,True,True
+121,121,Katie Porter ,16627706,6443700,CA,45,D,True,True
+122,122,Greg Raths,1245767,1241713,CA,45,R,False,False
+123,123,Lou Correa ,1192715,650707,CA,46,D,True,True
+124,124,Alan Lowenthal ,678648,854902,CA,47,D,True,True
+125,125,John Briscoe,25302,21538,CA,47,R,False,False
+126,126,Harley Rouda ,5968858,6174443,CA,48,D,True,False
+127,127,Michelle Steel ,6305665,6148591,CA,48,R,False,True
+128,128,Mike Levin ,3845768,2901566,CA,49,D,True,True
+129,129,Brian Maryott,2810253,2808217,CA,49,R,False,False
+130,130,Darrell Issa ,11239670,10947106,CA,50,R,False,True
+131,131,Ammar Campa-Najjar,6248210,6247762,CA,50,D,False,False
+132,132,Juan Vargas ,799734,801671,CA,51,D,True,True
+133,133,Juan Hidalgo,83730,81182,CA,51,R,False,False
+134,134,Scott Peters ,1911791,2131849,CA,52,D,True,True
+135,135,James Debello,233464,224630,CA,52,R,False,False
+136,136,Sara Jacobs ,7678363,7586186,CA,53,D,False,True
+137,137,Georgette Gomez,1691794,1663252,CA,53,D,False,False
+138,138,Diana DeGette ,1201026,1077130,CO,1,D,True,True
+139,139,Joseph Neguse ,1353325,674602,CO,2,D,True,True
+140,140,Charles Winn,98338,98338,CO,2,R,False,False
+141,141,Alex Johnson,4782,4093,CO,2,I,False,False
+142,142,Diane Mitsch Bush,5008274,4984238,CO,3,D,False,False
+143,143,Lauren Boebert ,2989510,2632716,CO,3,R,False,True
+144,144,Chris Milton,12012,12012,CO,3,3,False,False
+145,145,Ken Buck ,478984,539393,CO,4,R,True,True
+146,146,Ike McCorkle,369871,217398,CO,4,D,False,False
+147,147,Douglas L Lamborn ,540712,329011,CO,5,L,True,True
+148,148,Jillian Freeland,185255,175548,CO,5,D,False,False
+149,149,Rebecca Keltie,2552,1495,CO,5,3,False,False
+150,150,Jason Crow ,4136137,2892443,CO,6,D,True,True
+151,151,Steven House,1200056,1198044,CO,6,R,False,False
+152,152,Jaimie Kulikowski,72293,110645,CO,6,3,False,False
+153,153,Ed Perlmutter ,1632262,1339482,CO,7,D,True,True
+154,154,Casper Stockham,147872,147872,CO,7,R,False,False
+155,155,Anthony Malgieri,1930,1958,CO,7,I,False,False
+156,156,John Larson ,1377238,1323690,CT,1,D,True,True
+157,157,Mary Fay,26836,25118,CT,1,R,False,False
+158,158,Joe Courtney ,964731,999360,CT,2,D,True,True
+159,159,Justin Anderson,80227,78767,CT,2,R,False,False
+160,160,Rosa L DeLauro ,1938999,1795635,CT,3,L,True,True
+161,161,Margaret Streicker,1839080,1835385,CT,3,R,False,False
+162,162,Justin Paglino,29200,28670,CT,3,3,False,False
+163,163,Jim Himes ,1612935,2180029,CT,4,D,True,True
+164,164,Jonathan Riddle,31591,17385,CT,4,R,False,False
+165,165,Jahana Hayes ,2037826,1564685,CT,5,D,True,True
+166,166,David Sullivan,397395,397370,CT,5,R,False,False
+167,167,Lisa Blunt Rochester ,2024201,1305618,DE,1,D,True,True
+168,168,Lee Murphy,131394,131862,DE,1,R,False,False
+169,169,Matthew Morris,10070,10400,DE,1,R,False,False
+170,170,Catherine Purcell,5344,5103,DE,1,I,False,False
+171,171,Matt Gaetz ,5946646,4482782,FL,1,R,True,True
+172,172,Phil Ehr,2025099,1900451,FL,1,D,False,False
+173,173,Bert Oram,8108,7070,FL,1,I,False,False
+174,174,Neal Dunn ,653488,637580,FL,2,R,True,True
+175,175,Kristy Thripp,145,145,FL,2,I,False,False
+176,176,Kat Cammack ,1122188,1090334,FL,3,R,False,True
+177,177,Adam Christensen,216021,219108,FL,3,D,False,False
+178,178,John Rutherford ,1024912,1283701,FL,4,R,True,True
+179,179,Donna Deegan,1013157,1013157,FL,4,D,False,False
+180,180,Al Lawson ,848498,695779,FL,5,D,True,True
+181,181,Gary Adler,146909,146909,FL,5,R,False,False
+182,182,Michael Waltz ,2549667,1716768,FL,6,R,True,True
+183,183,Clint Curtis,24310,22251,FL,6,D,False,False
+184,184,Gerry Nolan,4467,5256,FL,6,I,False,False
+185,185,Stephanie Murphy ,3124692,1798549,FL,7,D,True,True
+186,186,Leo Valentin,1045426,1031316,FL,7,R,False,False
+187,187,Bill Garlington,11000,0,FL,7,I,False,False
+188,188,Bill Posey ,985268,1121834,FL,8,R,True,True
+189,189,James Kennedy,138568,138790,FL,8,D,False,False
+190,190,Darren Soto ,1111750,945868,FL,9,D,True,True
+191,191,William Olson,404406,401088,FL,9,R,False,False
+192,192,Val Demings ,1876047,1191020,FL,10,D,True,True
+193,193,Vennia Francois,335480,332852,FL,10,R,False,False
+194,194,Kristofer Steven Lawson,47,47,FL,10,I,False,False
+195,195,Daniel Webster ,691261,586965,FL,11,R,True,True
+196,196,Dana Cottrell,62658,62380,FL,11,D,False,False
+197,197,Gus Bilirakis ,1604137,1548634,FL,12,R,True,True
+198,198,Kim Walker,42802,33544,FL,12,D,False,False
+199,199,Charlie Crist ,2720646,3980695,FL,13,D,True,True
+200,200,Anna Paulina Luna,3302944,3262236,FL,13,R,False,False
+201,201,Kathy Castor ,884651,1201653,FL,14,D,True,True
+202,202,Christine Quinn,242144,241187,FL,14,R,False,False
+203,203,Alan Cohn,2333053,2300197,FL,15,D,False,False
+204,204,Scott Franklin ,1663898,1638417,FL,15,R,False,True
+205,205,Vernon Buchanan ,3094611,3100766,FL,16,R,True,True
+206,206,Margaret Good,3411924,3407845,FL,16,D,False,False
+207,207,Greg Steube ,759908,621200,FL,17,R,True,True
+208,208,Allen Ellison,83481,78243,FL,17,D,False,False
+209,209,Brian Mast ,6128177,5301307,FL,18,R,True,True
+210,210,Pam Keith,1639873,1632736,FL,18,D,False,False
+211,211,Byron Donalds ,3219579,2738685,FL,19,R,False,True
+212,212,Cindy Banyai,214750,203430,FL,19,D,False,False
+213,213,Alcee Hastings ,607649,543316,FL,20,D,True,True
+214,214,Greg Musselwhite,28955,27538,FL,20,R,False,False
+215,215,Lois J Frankel ,1534882,1309786,FL,21,J,True,True
+216,216,Laura Loomer,2271604,2240689,FL,21,R,False,False
+217,217,Charleston Malkemus,28928,28636,FL,21,I,False,False
+218,218,Ted Deutch ,1364438,1265494,FL,22,D,True,True
+219,219,Jim Pruden,278416,278416,FL,22,R,False,False
+220,220,Debbie Wasserman Schultz ,2191922,1979903,FL,23,D,True,True
+221,221,Carla Spalding,919579,903561,FL,23,R,False,False
+222,222,Frederica Wilson ,412592,321019,FL,24,D,True,True
+223,223,Lavern Spicer,34973,34909,FL,24,R,False,False
+224,224,Christine Olivo,31646,32898,FL,24,I,False,False
+225,225,Mario Diaz-Balart ,1590134,804054,FL,25,R,True,True
+226,226,Debbie Mucarsel-Powell ,6793521,6822740,FL,26,D,True,False
+227,227,Carlos Gimenez ,2226559,2187389,FL,26,R,False,True
+228,228,Donna Shalala ,3842907,3735966,FL,27,D,True,False
+229,229,Maria Salazar ,3654190,3645814,FL,27,R,False,True
+230,230,Frank Polo,4606,4662,FL,27,I,False,False
+231,231,Buddy Carter ,2315487,1734754,GA,1,R,True,True
+232,232,Joyce Griggs,130043,125000,GA,1,D,False,False
+233,233,Sanford Bishop ,1540683,1440571,GA,2,D,True,True
+234,234,Don Cole,164274,162522,GA,2,R,False,False
+235,235,Drew Ferguson ,2374212,2150911,GA,3,R,True,True
+236,236,Valbrun Almonord,35762,31946,GA,3,D,False,False
+237,237,Hank Johnson ,628303,490360,GA,4,D,True,True
+238,238,Johsira C. Cruz,12954,23146,GA,4,C,False,False
+239,239,Nikema Williams ,553964,362801,GA,5,D,False,True
+240,240,Robert Franklin,360473,358394,GA,5,D,False,False
+241,241,Angela Stanton-King,305279,301338,GA,5,R,False,False
+242,242,Kwanza Hall,239597,227091,GA,5,D,False,False
+243,243,Barrington Martin II,16522,16517,GA,5,D,False,False
+244,244,Chase Oliver,9225,5220,GA,5,L,False,False
+245,245,Steven Muhammad,3497,4965,GA,5,I,False,False
+246,246,Keisha Waites,875,0,GA,5,D,False,False
+247,247,Lucy McBath ,8507298,8586054,GA,6,D,True,True
+248,248,Karen Handel,3026243,3072932,GA,6,R,False,False
+249,249,Carolyn Bourdeaux ,5133244,5161230,GA,7,D,False,True
+250,250,Richard McCormick,2595446,2563724,GA,7,R,False,False
+251,251,Austin Scott ,821745,716159,GA,8,R,True,True
+252,252,Jimmy Cooper,8542,8528,GA,8,3,False,False
+253,253,Lindsay Holliday,7480,5220,GA,8,D,False,False
+254,254,Andrew Clyde ,1569425,1561316,GA,9,R,False,True
+255,255,Devin Pandy,84272,84623,GA,9,D,False,False
+256,256,Jody Hice ,595947,457648,GA,10,R,True,True
+257,257,Tabitha Johnson-Green,14808,12214,GA,10,D,False,False
+258,258,Barry Loudermilk ,877767,700851,GA,11,R,True,True
+259,259,Dana Barrett,404625,394977,GA,11,D,False,False
+260,260,Richard W Allen ,1228970,662818,GA,12,W,True,True
+261,261,Liz Johnson,72061,72061,GA,12,D,False,False
+262,262,David Scott ,1209614,1131746,GA,13,D,True,True
+263,263,Becky Hites,63509,62935,GA,13,R,False,False
+264,264,Martin Cowen,13460,13464,GA,13,L,False,False
+265,265,Marjorie Taylor Greene ,2596914,2237599,GA,14,R,False,True
+266,266,Ed Case ,508249,472569,HI,1,D,True,False
+267,267,Ron Curtis,12538,12647,HI,1,R,False,False
+268,268,Kai Kahele ,1235523,1039637,HI,2,D,False,True
+269,269,Joe Akana,54534,55344,HI,2,R,False,False
+270,270,Jonathan Hoomanawanui,1883,1522,HI,2,3,False,False
+271,271,Russ Fulcher ,575485,508457,ID,1,R,True,True
+272,272,Rudy Soto,302902,302902,ID,1,D,False,False
+273,273,Mike Simpson ,1008847,1099604,ID,2,R,True,True
+274,274,Aaron Swisher,70674,70268,ID,2,D,False,False
+275,275,Bobby L Rush ,541435,496454,IL,1,L,True,True
+276,276,Philanise White,6289,5048,IL,1,R,False,False
+277,277,Robin Kelly ,1634783,1108137,IL,2,D,True,True
+278,278,Marie Newman ,2802093,2699323,IL,3,D,False,True
+279,279,Mike Fricilone,128458,127980,IL,3,R,False,False
+280,280,Jesus Garcia ,822846,711159,IL,4,D,True,True
+281,281,Jesus Solorio Jr,2065,843,IL,4,R,False,False
+282,282,Mike Quigley ,1171507,926655,IL,5,D,True,True
+283,283,Sean Casten ,5582179,5313570,IL,6,D,True,True
+284,284,Jeanne Ives,3157771,3135464,IL,6,R,False,False
+285,285,Bill Redpath,9837,9837,IL,6,L,False,False
+286,286,Danny K Davis ,544690,505506,IL,7,K,True,True
+287,287,Tracy Jennings,65283,65283,IL,7,3,False,False
+288,288,Raja Krishnamoorthi ,6358878,2207703,IL,8,D,True,True
+289,289,Jan Schakowsky ,1834801,1514838,IL,9,D,True,True
+290,290,Sargis Sangari,35364,34715,IL,9,R,False,False
+291,291,Brad Schneider ,3459512,2873333,IL,10,D,True,True
+292,292,Valerie Ramirez Mukherjee,130225,64764,IL,10,R,False,False
+293,293,Bill Foster ,2381354,1823906,IL,11,D,True,True
+294,294,Rick Laib,20343,20064,IL,11,R,False,False
+295,295,Mike Bost ,1918041,1509573,IL,12,R,True,True
+296,296,Ray Lenzi,161324,104809,IL,12,D,False,False
+297,297,Rodney Davis ,4943459,4822600,IL,13,R,True,True
+298,298,Betsy Dirksen Londrigan,5297007,5281880,IL,13,D,False,False
+299,299,Lauren A Underwood ,7803579,7301503,IL,14,A,True,True
+300,300,Jim Oberweis,2438857,2348798,IL,14,R,False,False
+301,301,Mary Miller ,689057,570356,IL,15,R,False,True
+302,302,Erika Weaver,58689,23349,IL,15,D,False,False
+303,303,Adam Kinzinger ,2105736,1588550,IL,16,R,True,True
+304,304,Dani Brzozowski,459344,376167,IL,16,D,False,False
+305,305,Cheri Bustos ,4975192,6391009,IL,17,D,True,True
+306,306,Esther Joy King,2032878,2030587,IL,17,R,False,False
+307,307,Darin LaHood ,3248113,1749128,IL,18,R,True,True
+308,308,Frank J. Mrvan ,578635,464407,IN,1,J,False,True
+309,309,Mark Leyva,16551,15343,IN,1,R,False,False
+310,310,Jackie Walorski ,2383467,1698202,IN,2,R,True,True
+311,311,Pat Hackett,881888,867301,IN,2,D,False,False
+312,312,Jim Banks ,1202509,769591,IN,3,R,True,True
+313,313,Chip Coldiron,94056,89883,IN,3,D,False,False
+314,314,Jim Baird ,327727,190158,IN,4,R,True,True
+315,315,Joe Mackey,44585,43213,IN,4,D,False,False
+316,316,Christina Hale,4010368,3998905,IN,5,D,False,False
+317,317,Victoria Spartz ,3119328,3010203,IN,5,R,False,True
+318,318,Greg Pence ,3114448,2804148,IN,6,R,True,True
+319,319,Jeannine Lee Lake,143089,145315,IN,6,D,False,False
+320,320,Andre Carson ,1011635,873962,IN,7,D,True,True
+321,321,Susan Marie Smith,62905,59843,IN,7,R,False,False
+322,322,Larry Bucshon ,1051336,1078646,IN,8,R,True,True
+323,323,Thomasina Marsili,68734,68480,IN,8,D,False,False
+324,324,Trey Hollingsworth ,1166754,501136,IN,9,R,True,True
+325,325,Andy Ruff,148263,134906,IN,9,D,False,False
+326,326,Tonya Millis,10224,10041,IN,9,L,False,False
+327,327,Abby Finkenauer ,5901441,5875405,IA,1,D,True,False
+328,328,Ashley Hinson ,5175883,5059211,IA,1,R,False,True
+329,329,Rita Hart,4232992,4114400,IA,2,D,False,False
+330,330,Mariannette Miller-Meeks ,2174194,1721926,IA,2,R,False,True
+331,331,Cindy Axne ,6236976,6236994,IA,3,D,True,True
+332,332,David Young,3170072,3094582,IA,3,R,False,False
+333,333,J.D. Scholten,2885915,2902003,IA,4,D,False,False
+334,334,Randy Feenstra ,1906234,1894288,IA,4,R,False,True
+335,335,Tracey Mann ,1403353,1127156,KS,1,R,False,True
+336,336,Kali Barnett,603036,592924,KS,1,D,False,False
+337,337,Michelle De La Isla,1825085,1810968,KS,2,D,False,False
+338,338,Jake Laturner ,1593407,1578460,KS,2,R,False,True
+339,339,Sharice Davids ,5638552,5168034,KS,3,D,True,True
+340,340,Amanda Adkins,2182382,2139673,KS,3,R,False,False
+341,341,Ron Estes ,1993808,1420188,KS,4,R,True,True
+342,342,Laura Lombard,264459,258684,KS,4,D,False,False
+343,343,James Comer ,736116,502554,KY,1,R,True,True
+344,344,Brett Guthrie ,1412797,1566622,KY,2,R,True,True
+345,345,Hank Linderman,93388,71122,KY,2,D,False,False
+346,346,Robert Lee Perry,12798,7825,KY,2,L,False,False
+347,347,John Yarmuth ,658295,690226,KY,3,D,True,True
+348,348,Rhonda Palazzo,46144,45668,KY,3,R,False,False
+349,349,Thomas Massie ,1457316,1563275,KY,4,R,True,True
+350,350,Alexandra Owensby,156174,106359,KY,4,D,False,False
+351,351,Hal Rogers ,664168,835781,KY,5,R,True,True
+352,352,Andy Barr ,4536264,4316239,KY,6,R,True,True
+353,353,Josh Hicks,2936320,2935615,KY,6,D,False,False
+354,354,Steve Scalise ,37262827,32830607,LA,1,R,True,True
+355,355,Cedric Richmond ,1628289,1302079,LA,2,D,True,True
+356,356,Clay Higgins ,751498,720424,LA,3,R,True,True
+357,357,Robert Jon Anderson,63617,48015,LA,3,D,False,False
+358,358,Braylon Harris,23006,15130,LA,3,D,False,False
+359,359,Mike Johnson ,1299787,1039393,LA,4,R,True,True
+360,360,Kenny Houston,33677,33407,LA,4,D,False,False
+361,361,Luke Letlow,1392822,1303757,LA,5,R,False,False
+362,362,Lance Harris,696805,687833,LA,5,R,False,False
+363,363,Martin Lemelle,173796,162747,LA,5,D,False,False
+364,364,Scotty Robinson,113903,113835,LA,5,R,False,False
+365,365,Candy Christophe,77101,131161,LA,5,D,False,False
+366,366,Phillip Snowden,29481,28077,LA,5,D,False,False
+367,367,Matthew Hasty,2654,2615,LA,5,R,False,False
+368,368,Garret Graves ,1743015,1200287,LA,6,R,True,True
+369,369,Dartanyon Williams,111316,98114,LA,6,D,False,False
+370,370,Chellie Pingree ,487080,264790,ME,1,D,True,True
+371,371,Jay Allen,79585,69853,ME,1,R,False,False
+372,372,Jared Golden ,5272142,5233990,ME,2,D,True,True
+373,373,Dale Crafts,1199805,1196117,ME,2,R,False,False
+374,374,Andy Harris ,1468096,973953,MD,1,R,True,True
+375,375,Mia Mason,2524,0,MD,1,D,False,False
+376,376,Dutch Ruppersberger ,1012835,927353,MD,2,D,True,True
+377,377,Johnny Ray Salling,68320,66895,MD,2,R,False,False
+378,378,John Sarbanes ,573599,687299,MD,3,D,True,True
+379,379,Charles Anthony,7798,6742,MD,3,R,False,False
+380,380,Anthony Brown ,1446636,846827,MD,4,D,True,True
+381,381,Steny H Hoyer ,4587189,4342255,MD,5,H,True,True
+382,382,Chris Palombi,43462,42095,MD,5,R,False,False
+383,383,David Trone ,2944893,2959748,MD,6,D,True,True
+384,384,Neil Parrott,315936,261259,MD,6,R,False,False
+385,385,Kweisi Mfume ,1014126,713389,MD,7,D,True,True
+386,386,Kimberly Klacik,8296845,7499454,MD,7,R,False,False
+387,387,Amber Ivey,41924,43394,MD,7,I,False,False
+388,388,Jamie Raskin ,2072652,1399252,MD,8,D,True,True
+389,389,Gregory Coll,30876,27257,MD,8,R,False,False
+390,390,Richard E Neal ,4949384,5873122,MA,1,E,True,True
+391,391,James P McGovern ,1052549,1089412,MA,2,P,True,True
+392,392,Tracy Lovvorn,26311,22319,MA,2,R,False,False
+393,393,Lori Trahan ,1449303,1232437,MA,3,D,True,True
+394,394,Jake Auchincloss ,2608686,2150904,MA,4,D,False,True
+395,395,Julie Hall,131603,129378,MA,4,R,False,False
+396,396,Katherine Clark ,1788706,1514877,MA,5,D,True,True
+397,397,Caroline Colarusso,148635,146972,MA,5,R,False,False
+398,398,Seth Moulton ,1289805,1802169,MA,6,D,True,True
+399,399,John Paul Moran,300220,299104,MA,6,R,False,False
+400,400,Ayanna Pressley ,2163370,1748432,MA,7,D,True,True
+401,401,Stephen F Lynch ,905614,1134662,MA,8,F,True,True
+402,402,Bill Keating ,708680,652448,MA,9,D,True,True
+403,403,Helen Brady,28233,23735,MA,9,R,False,False
+404,404,John Bergman ,1868512,1733466,MI,1,R,True,True
+405,405,Dana Ferguson,346213,339788,MI,1,D,False,False
+406,406,Bill Huizenga ,2175411,1883610,MI,2,R,True,True
+407,407,Bryan Berghoef,751576,669864,MI,2,D,False,False
+408,408,Jean-Michel Creviere,281,1207,MI,2,3,False,False
+409,409,Hillary Scholten,3793132,3765942,MI,3,D,False,False
+410,410,Peter Meijer ,2975972,2887774,MI,3,R,False,True
+411,411,John Moolenaar ,1528612,1036160,MI,4,R,True,True
+412,412,Jerry Hilliard,23117,23603,MI,4,D,False,False
+413,413,Dan Kildee ,1669951,1504094,MI,5,D,True,True
+414,414,Tim Kelly,71106,71106,MI,5,R,False,False
+415,415,Fred Upton ,3616380,3464617,MI,6,R,True,True
+416,416,Jon Hoadley,3116491,3098366,MI,6,D,False,False
+417,417,Tim Walberg ,2301635,1586358,MI,7,R,True,True
+418,418,Gretchen Driskell,1712840,1712840,MI,7,D,False,False
+419,419,Elissa Slotkin ,8967420,7419974,MI,8,D,True,True
+420,420,Paul Junge,2107608,2097131,MI,8,R,False,False
+421,421,Andy Levin ,1316607,907237,MI,9,D,True,True
+422,422,Lisa McClain ,2266287,2137031,MI,10,R,False,True
+423,423,Kimberly Bizon,41438,41246,MI,10,D,False,False
+424,424,Haley Stevens ,5776924,5707448,MI,11,D,True,True
+425,425,Eric Esshaki,1298612,1291509,MI,11,R,False,False
+426,426,Debbie Dingell ,1630498,1689582,MI,12,D,True,True
+427,427,Jeff Jones,10616,9657,MI,12,R,False,False
+428,428,Rashida Tlaib ,4014411,3690334,MI,13,D,True,True
+429,429,Donald Eason,34156,34156,MI,13,I,False,False
+430,430,Brenda Lawrence ,1084662,789570,MI,14,D,True,True
+431,431,Vance Patrick,39670,41973,MI,14,R,False,False
+432,432,Jim Hagedorn ,2386033,2305994,MN,1,R,True,True
+433,433,Daniel Feehan,4861651,4863835,MN,1,D,False,False
+434,434,Angie Craig ,5380101,4435492,MN,2,D,True,True
+435,435,Tyler Kistner,2990054,2956042,MN,2,R,False,False
+436,436,Dean Phillips ,2328616,2152031,MN,3,D,True,True
+437,437,Kendall Qualls,1863927,1751214,MN,3,R,False,False
+438,438,Gary Heyer,827,827,MN,3,I,False,False
+439,439,Betty McCollum ,1171748,994072,MN,4,D,True,True
+440,440,Gene Rechtzigel,20075,20075,MN,4,R,False,False
+441,441,Ilhan Omar ,5718517,5605576,MN,5,D,True,True
+442,442,Lacy Johnson,12050564,12000896,MN,5,R,False,False
+443,443,Chris Kelley,249583,249583,MN,5,3,False,False
+444,444,Ervan Katari Miller,255,187,MN,5,I,False,False
+445,445,Tom Emmer ,2804265,2537612,MN,6,R,True,True
+446,446,Tawnja Zahradka,49242,49214,MN,6,D,False,False
+447,447,Collin Peterson ,2714012,2867577,MN,7,D,True,False
+448,448,Michelle Fischbach ,2618450,2580501,MN,7,R,False,True
+449,449,Pete Stauber ,2593190,2608759,MN,8,R,True,True
+450,450,Quinn Nystrom,1530606,1527005,MN,8,D,False,False
+451,451,Trent Kelly ,876882,826673,MS,1,R,True,True
+452,452,Antonia Eliason,22281,18174,MS,1,D,False,False
+453,453,Bennie G Thompson ,1377392,1096904,MS,2,G,True,True
+454,454,Michael Guest ,766807,518162,MS,3,R,True,True
+455,455,Steven Palazzo ,817129,747217,MS,4,R,True,True
+456,456,Cori Bush ,1418014,1333512,MO,1,D,False,True
+457,457,Ann Wagner ,5598287,6513101,MO,2,R,True,True
+458,458,Jill Schupp,4850948,4830434,MO,2,D,False,False
+459,459,Blaine Luetkemeyer ,2022905,2081391,MO,3,R,True,True
+460,460,Vicky Hartzler ,1700978,1335607,MO,4,R,True,True
+461,461,Lindsey Simmons,395934,384622,MO,4,D,False,False
+462,462,Emanuel Cleaver ,1393847,928061,MO,5,D,True,True
+463,463,Ryan Derks,76488,76488,MO,5,R,False,False
+464,464,Sam Graves ,1959516,1654756,MO,6,R,True,True
+465,465,Gena Ross,10170,10530,MO,6,D,False,False
+466,466,Billy Long ,1320420,1518234,MO,7,R,True,True
+467,467,Audrey Richards,7985,8113,MO,7,I,False,False
+468,468,Jason Smith ,1900227,1514786,MO,8,R,True,True
+469,469,Kathryn Ellis,302428,305387,MO,8,D,False,False
+470,470,Kathleen Williams,6201758,6232286,MT,1,D,False,False
+471,471,Matt Rosendale ,3674706,3488045,MT,1,R,False,True
+472,472,Jeff Fortenberry ,1472816,2458330,NE,1,R,True,True
+473,473,Kate Bolz,1143509,1140371,NE,1,D,False,False
+474,474,Don Bacon ,3749272,3713961,NE,2,R,True,True
+475,475,Kara Eastman,4414390,4468006,NE,2,D,False,False
+476,476,Adrian Smith ,1506473,1148409,NE,3,R,True,True
+477,477,Mark Elworth Jr,255,0,NE,3,D,False,False
+478,478,Dina Titus ,706193,587919,NV,1,D,True,True
+479,479,Mark Amodei ,1048056,1016673,NV,2,R,True,True
+480,480,Patricia Ackerman,449363,449449,NV,2,D,False,False
+481,481,Susie Lee ,4748019,4732009,NV,3,D,True,True
+482,482,Dan Rodimer,2936059,2915216,NV,3,R,False,False
+483,483,Steven Horsford ,3492372,3024427,NV,4,D,True,True
+484,484,Jim Marchant,1462772,1419405,NV,4,R,False,False
+485,485,Jonathan Royce Esteban,2788,1603,NV,4,L,False,False
+486,486,Chris Pappas ,3205731,3105663,NH,1,D,True,True
+487,487,Matt Mowers,1707214,1698761,NH,1,R,False,False
+488,488,Ann Kuster ,2960033,2970274,NH,2,D,True,True
+489,489,Steve Negron,368177,378959,NH,2,R,False,False
+490,490,Don Norcross ,2221989,1087264,NJ,1,D,True,True
+491,491,Claire Gustafson,36520,21761,NJ,1,R,False,False
+492,492,Jeff Van Drew ,4229171,4041493,NJ,2,R,True,True
+493,493,Amy Kennedy,4984376,4978913,NJ,2,D,False,False
+494,494,Andy Kim ,7241283,6753262,NJ,3,D,True,True
+495,495,David Richter,1473669,1470648,NJ,3,R,False,False
+496,496,Chris Smith ,1383085,1284522,NJ,4,R,True,True
+497,497,Stephanie Schmid,699580,658011,NJ,4,D,False,False
+498,498,Josh Gottheimer ,7694027,3487964,NJ,5,D,True,True
+499,499,Frank Pallotta,1972033,1948705,NJ,5,R,False,False
+500,500,Louis A. Vellucci,5456,5342,NJ,5,A,False,False
+501,501,Frank Pallone Jr. ,3231755,2021737,NJ,6,D,True,True
+502,502,Tom Malinowski ,7414403,7423758,NJ,7,D,True,True
+503,503,Tom Kean,3869121,3775442,NJ,7,R,False,False
+504,504,Albio Sires ,605810,551325,NJ,8,D,True,True
+505,505,Bill Pascrell Jr. ,1560550,1795410,NJ,9,D,True,True
+506,506,Billy Prempeh,44269,35075,NJ,9,R,False,False
+507,507,Donald M Payne Jr. ,593735,457252,NJ,10,M,True,True
+508,508,Mikie Sherrill ,6419707,3733106,NJ,11,D,True,True
+509,509,Rosemary Becchi,1687532,1686236,NJ,11,R,False,False
+510,510,Bonnie Watson Coleman ,798439,840651,NJ,12,D,True,True
+511,511,Mark Razzoli,3065,1142,NJ,12,R,False,False
+512,512,Debra Haaland ,2246734,1875766,NM,1,D,True,True
+513,513,Michelle Garcia Holmes,257294,245590,NM,1,R,False,False
+514,514,Xochitl Torres Small ,8387337,8539065,NM,2,D,True,False
+515,515,Yvette Herrell ,2805711,2921785,NM,2,R,False,True
+516,516,Steve Jones,9405,9505,NM,2,I,False,False
+517,517,Teresa Leger Fernandez ,2296594,2132010,NM,3,D,False,True
+518,518,Alexis Johnson,147303,147303,NM,3,R,False,False
+519,519,Lee Zeldin ,8396981,8250116,NY,1,R,True,True
+520,520,Nancy Goroff,7866239,7860977,NY,1,D,False,False
+521,521,Jackie Gordon,4351881,4334484,NY,2,D,False,False
+522,522,Andrew Garbarino ,1743986,1612132,NY,2,R,False,True
+523,523,Harry Burger,2430,594,NY,2,3,False,False
+524,524,Tom Suozzi ,2941006,2331302,NY,3,D,True,True
+525,525,George Devolder-Santos,658883,591239,NY,3,R,False,False
+526,526,Joshua Sauberman,127,270,NY,3,I,False,False
+527,527,Kathleen Rice ,1106258,1210410,NY,4,D,True,True
+528,528,Douglas Tuman,134937,130995,NY,4,R,False,False
+529,529,Ed Dennehy,9031,9031,NY,4,I,False,False
+530,530,Gregory W Meeks ,2097572,1467454,NY,5,W,True,True
+531,531,Amit Lal,126,0,NY,5,I,False,False
+532,532,Grace Meng ,1292084,1872311,NY,6,D,True,True
+533,533,Thomas Zmich,133403,131278,NY,6,R,False,False
+534,534,Nydia Velazquez ,803217,676248,NY,7,D,True,True
+535,535,Hakeem Jeffries ,4168717,3293077,NY,8,D,True,True
+536,536,Yvette D Clarke ,1200067,1190143,NY,9,D,True,True
+537,537,Jerrold Nadler ,1848688,1950774,NY,10,D,True,True
+538,538,Cathy Bernstein,49975,28384,NY,10,R,False,False
+539,539,Jeanne Nigro,34548,28039,NY,10,I,False,False
+540,540,Michael Madrid,14326,12149,NY,10,L,False,False
+541,541,Max Rose ,9284434,9499242,NY,11,D,True,False
+542,542,Nicole Malliotakis ,3469995,3447052,NY,11,R,False,True
+543,543,Kemi Akindude,21261,14697,NY,11,I,False,False
+544,544,Carolyn B Maloney ,3067173,3059202,NY,12,B,True,True
+545,545,Adriano Espaillat ,1087237,1252740,NY,13,D,True,True
+546,546,Lovelynn Gwinn,39384,39384,NY,13,R,False,False
+547,547,Alexandria Ocasio-Cortez ,20664795,16735422,NY,14,D,True,True
+548,548,John C. Cummings,11140937,10947758,NY,14,C,False,False
+549,549,Ritchie Torres ,2194025,1804336,NY,15,D,False,True
+550,550,Jamaal Bowman ,2878898,2801424,NY,16,D,False,True
+551,551,Mondaire Jones ,2984052,2186463,NY,17,D,False,True
+552,552,Maureen McArdle Schulman,54732,60084,NY,17,R,False,False
+553,553,Michael Parietti,44787,19670,NY,17,3,False,False
+554,554,Sean Patrick Maloney ,2556294,1718525,NY,18,D,True,True
+555,555,Chele Farley,1186211,1152124,NY,18,R,False,False
+556,556,Scott Smith,8718,8403,NY,18,I,False,False
+557,557,Antonio Delgado ,5949475,2963286,NY,19,D,True,True
+558,558,Kyle Van De Water,153796,120097,NY,19,R,False,False
+559,559,Paul Tonko ,1541984,1418994,NY,20,D,True,True
+560,560,Elizabeth Joy,370852,336845,NY,20,R,False,False
+561,561,Elise Stefanik ,13287248,11655936,NY,21,R,True,True
+562,562,Tedra Cobb,5586793,5593266,NY,21,D,False,False
+563,563,Anthony Brindisi ,6020190,5772429,NY,22,D,True,False
+564,564,Claudia Tenney,3051777,2725893,NY,22,R,False,False
+565,565,Tom Reed ,3275177,3145027,NY,23,R,True,True
+566,566,Tracy Mitrano,1450322,1466128,NY,23,D,False,False
+567,567,John Katko ,3821107,3597234,NY,24,R,True,True
+568,568,Dana Balter,3212469,3230808,NY,24,D,False,False
+569,569,Joseph D Morelle ,1375366,1274426,NY,25,D,True,True
+570,570,George Mitris,301376,279047,NY,25,R,False,False
+571,571,Kevin Wilson,5128,3417,NY,25,L,False,False
+572,572,Brian M Higgins ,1124168,984106,NY,26,M,True,True
+573,573,Chris Jacobs ,2147101,2084271,NY,27,R,True,True
+574,574,Nate McMurray,1150058,1097111,NY,27,D,False,False
+575,575,Duane Whitmer,36056,36056,NY,27,L,False,False
+576,576,G K Butterfield ,1032869,880420,NC,1,K,True,True
+577,577,Sandy Smith,1458375,1437805,NC,1,R,False,False
+578,578,Deborah Ross ,2268381,1816923,NC,2,D,False,True
+579,579,Alan Swain,119664,119435,NC,2,R,False,False
+580,580,Japheth Matemu,625,54,NC,2,L,False,False
+581,581,Greg Murphy ,1767790,1505559,NC,3,R,True,True
+582,582,David Price ,1161738,1014872,NC,4,D,True,True
+583,583,Virginia Foxx ,1858388,1944629,NC,5,R,True,True
+584,584,David Wilson Brown,61596,60668,NC,5,D,False,False
+585,585,Kathy Manning ,2002284,1695596,NC,6,D,False,True
+586,586,Joseph Lee Haywood,73878,58342,NC,6,R,False,False
+587,587,Jennyfer Bucardo,750,759,NC,6,I,False,False
+588,588,David Rouzer ,1628458,1038883,NC,7,R,True,True
+589,589,Christopher Ward,16260,4119,NC,7,D,False,False
+590,590,Richard Hudson ,4135872,4359009,NC,8,R,True,True
+591,591,Patricia Timmons-Goodson,3855743,3852668,NC,8,D,False,False
+592,592,Dan Bishop ,4090260,4029864,NC,9,R,True,True
+593,593,Cynthia Wallace,811609,794300,NC,9,D,False,False
+594,594,Patrick McHenry ,2780234,2339363,NC,10,R,True,True
+595,595,David Parker,30555,30555,NC,10,D,False,False
+596,596,Madison Cawthorn ,4478970,4366783,NC,11,R,False,True
+597,597,Moe Davis,2251413,2148121,NC,11,D,False,False
+598,598,Alma Adams ,824124,651883,NC,12,D,True,True
+599,599,Bill Brewster,21950,16763,NC,12,R,False,False
+600,600,Ted Budd ,2294174,1293414,NC,13,R,True,True
+601,601,Scott Huffman,193334,189967,NC,13,D,False,False
+602,602,Kelly Armstrong ,1269346,1080105,ND,1,R,True,True
+603,603,Zach Raknerud,28047,26029,ND,1,D,False,False
+604,604,Steve Chabot ,3177647,2861464,OH,1,R,True,True
+605,605,Kate Schroder,4040303,4039798,OH,1,D,False,False
+606,606,Kevin Kahn,12085,8398,OH,1,L,False,False
+607,607,Brad Wenstrup ,1794354,1757078,OH,2,R,True,True
+608,608,Jaime Castle,284197,271471,OH,2,D,False,False
+609,609,Joyce Beatty ,2237887,2540687,OH,3,D,True,True
+610,610,Nicholas Moss,1258,1248,OH,3,I,False,False
+611,611,Jim Jordan ,18313823,12945651,OH,4,R,True,True
+612,612,Chris Gibbs,65807,65807,OH,4,I,False,False
+613,613,Bob Latta ,1580952,1477090,OH,5,R,True,True
+614,614,Nick Rubando,249319,247423,OH,5,D,False,False
+615,615,Bill Johnson ,1866123,1853361,OH,6,R,True,True
+616,616,Shawna Roberts,262,574,OH,6,D,False,False
+617,617,Bob Gibbs ,791888,453928,OH,7,R,True,True
+618,618,Quentin Potter,12976,12976,OH,7,D,False,False
+619,619,Brandon Lape,3348,2713,OH,7,L,False,False
+620,620,Warren Davidson ,1016740,841533,OH,8,R,True,True
+621,621,Vanessa Enoch,40270,37546,OH,8,D,False,False
+622,622,Marcy Kaptur ,1090395,979798,OH,9,D,True,True
+623,623,Rob Weber,134898,123262,OH,9,R,False,False
+624,624,Michael R Turner ,1752255,1736283,OH,10,R,True,True
+625,625,Desiree Tims,2040760,2024010,OH,10,D,False,False
+626,626,Marcia Fudge ,755787,499820,OH,11,D,True,True
+627,627,Laverne Gore,157044,156827,OH,11,R,False,False
+628,628,Troy Balderson ,2016826,1995665,OH,12,R,True,True
+629,629,Alaina Shearer,1033711,1025410,OH,12,D,False,False
+630,630,John Stewart,75170,66382,OH,12,L,False,False
+631,631,Tim Ryan ,1972446,2071454,OH,13,D,True,True
+632,632,Christina Hagan,861723,820660,OH,13,R,False,False
+633,633,David P Joyce ,2917696,2501449,OH,14,P,True,True
+634,634,Hillary O'Connor Mueri,579877,574646,OH,14,O,False,False
+635,635,Steve Stivers ,3004799,2293101,OH,15,R,True,True
+636,636,Joel Newby,55797,55797,OH,15,D,False,False
+637,637,Anthony Gonzalez ,2338195,1839807,OH,16,R,True,True
+638,638,Aaron Godfrey,60294,60430,OH,16,D,False,False
+639,639,Kevin Hern ,1094104,830366,OK,1,R,True,True
+640,640,Kojo Asamoa-Caesar,157355,173928,OK,1,D,False,False
+641,641,Markwayne Mullin ,1660206,1077939,OK,2,R,True,True
+642,642,Danyell Lanier,41730,41722,OK,2,D,False,False
+643,643,Frank D Lucas ,872749,1036145,OK,3,D,True,True
+644,644,Tom Cole ,1812530,1753697,OK,4,R,True,True
+645,645,Mary Brannon,2084,1599,OK,4,D,False,False
+646,646,Kendra Horn ,5949800,5946195,OK,5,D,True,False
+647,647,Stephanie Bice ,3720520,3508929,OK,5,R,False,True
+648,648,Suzanne Bonamici ,959223,864627,OR,1,D,True,True
+649,649,Chris Christensen,144,672,OR,1,R,False,False
+650,650,Cliff Bentz ,1450780,1361727,OR,2,R,False,True
+651,651,Alex Spenser,20640,5089,OR,2,D,False,False
+652,652,Earl Blumenauer ,1813365,1948453,OR,3,D,True,True
+653,653,Joanna Harbour,17681,14502,OR,3,R,False,False
+654,654,Peter DeFazio ,5182843,5781074,OR,4,D,True,True
+655,655,Alek Skarlatos,5454621,5331264,OR,4,R,False,False
+656,656,Kurt Schrader ,2018692,1922073,OR,5,D,True,True
+657,657,Amy Ryan Courser,231624,221041,OR,5,R,False,False
+658,658,Brian Fitzpatrick ,4203825,4272135,PA,1,R,True,True
+659,659,Christina Finello,2336814,2329748,PA,1,D,False,False
+660,660,Brendan Boyle ,1556650,756317,PA,2,D,True,True
+661,661,Dwight Evans ,942386,781265,PA,3,D,True,True
+662,662,Madeleine Dean ,1435995,1005928,PA,4,D,True,True
+663,663,Kathy Barnette,1000389,884640,PA,4,R,False,False
+664,664,Joe Tarshish,24038,23738,PA,4,I,False,False
+665,665,Mary Gay Scanlon ,1455042,1350276,PA,5,D,True,True
+666,666,Dasha Pruett,105146,82437,PA,5,R,False,False
+667,667,Chrissy Houlahan ,3484484,1327283,PA,6,D,True,True
+668,668,John Emmons,608859,601390,PA,6,R,False,False
+669,669,John McHugh,6165,4410,PA,6,I,False,False
+670,670,Susan Wild ,4581056,4528267,PA,7,D,True,True
+671,671,Matt Cartwright ,3885136,4144070,PA,8,D,True,True
+672,672,Jim Bognet,1519527,1386040,PA,8,R,False,False
+673,673,Dan Meuser ,1071961,944010,PA,9,R,True,True
+674,674,Gary Wegman,188787,187348,PA,9,D,False,False
+675,675,Scott Perry ,3956481,3839197,PA,10,R,True,False
+676,676,Eugene DePasquale,4534580,4526684,PA,10,D,False,False
+677,677,Lloyd Smucker ,1349318,662704,PA,11,R,True,True
+678,678,Sarah Hammond,28733,23458,PA,11,D,False,False
+679,679,Fred Keller ,1541938,1066158,PA,12,R,True,True
+680,680,Lee Griffin,45850,44571,PA,12,D,False,False
+681,681,Liz Terwilliger,6211,5937,PA,12,L,False,False
+682,682,John Joyce ,1119769,461229,PA,13,R,True,True
+683,683,Todd Rowley,60348,67527,PA,13,D,False,False
+684,684,Guy Reschenthaler ,2250282,1580488,PA,14,R,True,True
+685,685,Bill Marx,60403,45959,PA,14,D,False,False
+686,686,Glenn Thompson ,1700061,1839073,PA,15,R,True,True
+687,687,Mike Kelly ,2239488,1319340,PA,16,R,True,True
+688,688,Kristy Gnibus,584205,579453,PA,16,D,False,False
+689,689,Conor Lamb ,4063114,3448850,PA,17,D,True,True
+690,690,Sean Parnell,3935774,3732399,PA,17,R,False,False
+691,691,Mike Doyle ,1008711,999692,PA,18,D,True,True
+692,692,Luke Negron,57714,51666,PA,18,R,False,False
+693,693,David Cicilline ,1574854,1743173,RI,1,D,True,True
+694,694,Jim Langevin ,1102312,1422339,RI,2,D,True,True
+695,695,Bob Lancia,55549,47877,RI,2,R,False,False
+696,696,Joe Cunningham ,6941746,6993962,SC,1,D,True,False
+697,697,Nancy Mace ,5766726,5707239,SC,1,R,False,True
+698,698,Joe Wilson ,1648065,1723956,SC,2,R,True,True
+699,699,Adair Boroughs,2510526,2507664,SC,2,D,False,False
+700,700,Jeff Duncan ,1509647,1271872,SC,3,R,True,True
+701,701,Hosea Cleveland,43214,45107,SC,3,D,False,False
+702,702,William Timmons ,977784,982233,SC,4,R,True,True
+703,703,Kim Nelson,167825,167508,SC,4,D,False,False
+704,704,Ralph Norman ,991246,859747,SC,5,R,True,True
+705,705,Moe Brown,480648,477295,SC,5,D,False,False
+706,706,James E Clyburn ,3406945,2332128,SC,6,E,True,True
+707,707,Tom Rice ,1405738,1242208,SC,7,R,True,True
+708,708,Melissa Watson,147623,147623,SC,7,D,False,False
+709,709,Larry Guy Hammond,199,199,SC,7,L,False,False
+710,710,Dusty Johnson ,1693504,699356,SD,1,R,True,True
+711,711,Diana Harshbarger ,2126946,1869100,TN,1,R,False,True
+712,712,Blair Nicole Walsingham,140209,134995,TN,1,D,False,False
+713,713,Tim Burchett ,1336276,878488,TN,2,R,True,True
+714,714,Renee Hoyos,812784,816793,TN,2,D,False,False
+715,715,Chuck Fleischmann ,1051653,381411,TN,3,R,True,True
+716,716,Meg Gorman,85843,77760,TN,3,D,False,False
+717,717,Scott Desjarlais ,331464,392499,TN,4,R,True,True
+718,718,Christopher Hale,308731,302996,TN,4,D,False,False
+719,719,Jim Cooper ,936569,1332131,TN,5,D,True,True
+720,720,John Rose ,1050429,625688,TN,6,R,True,True
+721,721,Mark Green ,1194960,935487,TN,7,R,True,True
+722,722,Kiran Sreepada,206644,207191,TN,7,D,False,False
+723,723,Ronald Brown,1750,0,TN,7,I,False,False
+724,724,Scott Vieira Jr,655,1049,TN,7,I,False,False
+725,725,David Kustoff ,1641217,999285,TN,8,R,True,True
+726,726,Erika Stotts Pearson,19070,15883,TN,8,D,False,False
+727,727,Steve Cohen ,607570,457311,TN,9,D,True,True
+728,728,Charlotte Bergmann,99147,100532,TN,9,R,False,False
+729,729,Dennis Clark,9991,9919,TN,9,I,False,False
+730,730,Louis B Gohmert Jr. ,552915,580441,TX,1,B,True,True
+731,731,Hank Gilbert,968155,734411,TX,1,D,False,False
+732,732,Dan Crenshaw ,19427865,17596329,TX,2,R,True,True
+733,733,Sima Ladjevardian,3832697,3825287,TX,2,D,False,False
+734,734,Elliott Scheirman,15374,14296,TX,2,L,False,False
+735,735,Van Taylor ,2655327,2825378,TX,3,R,True,True
+736,736,Helane Seikaly,1635185,1634843,TX,3,D,False,False
+737,737,Patrick Fallon ,257174,95065,TX,4,R,False,True
+738,738,Tracy Shawn Jones,13002,10595,TX,4,I,False,False
+739,739,Lance Gooden ,1610327,1311983,TX,5,R,True,True
+740,740,Carolyn Salter,317848,289112,TX,5,D,False,False
+741,741,Kevin Hale,18405,6508,TX,5,L,False,False
+742,742,Ron Wright ,912134,907693,TX,6,R,True,True
+743,743,Stephen Daniel,680402,677568,TX,6,D,False,False
+744,744,Lizzie Fletcher ,6265165,6246136,TX,7,D,True,True
+745,745,Wesley Hunt,7524064,7300122,TX,7,R,False,False
+746,746,Kevin Brady ,3570477,3190447,TX,8,R,True,True
+747,747,Elizabeth Hernandez,17227,14981,TX,8,D,False,False
+748,748,Al Green ,460332,486155,TX,9,D,True,True
+749,749,Johnny Teague,89965,88366,TX,9,R,False,False
+750,750,Michael McCaul ,3856477,3910930,TX,10,R,True,True
+751,751,Mike Siegel,2873926,2829765,TX,10,D,False,False
+752,752,August Pfluger ,2578540,1984134,TX,11,R,False,True
+753,753,Jon Mark Hogg,137730,135141,TX,11,D,False,False
+754,754,Kay Granger ,3161288,3271815,TX,12,R,True,True
+755,755,Lisa Welch,98465,98475,TX,12,D,False,False
+756,756,Trey Holcomb,967,457,TX,12,L,False,False
+757,757,Ronny Jackson ,2128271,1741132,TX,13,R,False,True
+758,758,Gus Trujillo,22826,18820,TX,13,D,False,False
+759,759,Randy Weber ,936202,924659,TX,14,R,True,True
+760,760,Adrienne Bell,244754,240934,TX,14,D,False,False
+761,761,Cyrus Sajna,35096,34942,TX,14,I,False,False
+762,762,Michael David Sanchez,100,12,TX,14,I,False,False
+763,763,Vicente Gonzalez ,1008381,657500,TX,15,D,True,True
+764,764,Monica De La Cruz Hernandez,344893,338832,TX,15,R,False,False
+765,765,Veronica Escobar ,1135549,1087693,TX,16,D,True,True
+766,766,Irene Armendariz-Jackson,168997,153671,TX,16,R,False,False
+767,767,Pete Sessions ,1447958,1658637,TX,17,R,False,True
+768,768,Rick Kennedy,200668,202096,TX,17,D,False,False
+769,769,Ted Brown,3041,3041,TX,17,L,False,False
+770,770,Sheila Jackson Lee ,924480,838414,TX,18,D,True,True
+771,771,Wendell Champion,305645,271278,TX,18,R,False,False
+772,772,Jodey Arrington ,2497184,1932700,TX,19,R,True,True
+773,773,Tom Watson,49405,60806,TX,19,D,False,False
+774,774,Joaquin Castro ,674061,686934,TX,20,D,True,True
+775,775,Mauro Garza,263293,240930,TX,20,R,False,False
+776,776,Chip Roy ,5005639,4679362,TX,21,R,True,True
+777,777,Wendy Davis,10263486,10201874,TX,21,D,False,False
+778,778,Michael Felts,3570,1851,TX,21,I,False,False
+779,779,Sri Kulkarni,5639061,5630098,TX,22,D,False,False
+780,780,Troy Nehls ,1806655,1787448,TX,22,R,False,True
+781,781,Gina Ortiz Jones,6755222,6842440,TX,23,D,False,False
+782,782,Tony Gonzales ,2797133,2764108,TX,23,R,False,True
+783,783,Candace Valenzuela,4886999,4875031,TX,24,D,False,False
+784,784,Beth Van Duyne ,3410852,3342442,TX,24,R,False,True
+785,785,Stephen Kuzmich,175504,201332,TX,24,I,False,False
+786,786,Mark Bauer,26342,26542,TX,24,I,False,False
+787,787,Darren Hamilton,570,212,TX,24,L,False,False
+788,788,Roger Williams ,2435121,3347267,TX,25,R,True,True
+789,789,Julie Oliver,2190347,2176319,TX,25,D,False,False
+790,790,Michael Burgess ,1806588,2081391,TX,26,R,True,True
+791,791,Carol Iannuzzi,95937,95937,TX,26,D,False,False
+792,792,Michael Cloud ,1014427,829748,TX,27,R,True,True
+793,793,Ricardo De La Fuente,312096,312096,TX,27,D,False,False
+794,794,Henry Cuellar ,2655317,3650848,TX,28,D,True,True
+795,795,Sandra Whitten,24760,27354,TX,28,R,False,False
+796,796,Sylvia Garcia ,818984,758382,TX,29,D,True,True
+797,797,Jaimy Blanco,4378,0,TX,29,R,False,False
+798,798,Eddie Bernice Johnson ,589096,494547,TX,30,D,True,True
+799,799,Demetrick Pennie,311109,305446,TX,30,R,False,False
+800,800,John Carter ,2160187,2214487,TX,31,R,True,True
+801,801,Donna Imam,1035222,1035272,TX,31,D,False,False
+802,802,Colin Allred ,5667725,5611747,TX,32,D,True,True
+803,803,Genevieve Collins,5923081,5915256,TX,32,R,False,False
+804,804,Jason Sigmon,11791,11651,TX,32,I,False,False
+805,805,Marc Veasey ,1621929,1613446,TX,33,D,True,True
+806,806,Fabian Cordova Vasquez,36692,25585,TX,33,R,False,False
+807,807,Filemon Vela ,983026,1024180,TX,34,D,True,True
+808,808,Rey Gonzalez,37118,37446,TX,34,R,False,False
+809,809,Lloyd Doggett ,1336576,424804,TX,35,D,True,True
+810,810,Jennifer Sharon,19011,14442,TX,35,R,False,False
+811,811,Jason Mata,2632,2632,TX,35,I,False,False
+812,812,Brian Babin ,1345351,1297185,TX,36,R,True,True
+813,813,Brandon Rashad Lewis,21714,12278,TX,36,D,False,False
+814,814,Blake Moore ,844377,816015,UT,1,R,False,True
+815,815,Darren Parry,41218,40904,UT,1,D,False,False
+816,816,Chris Stewart ,835139,812462,UT,2,R,True,True
+817,817,John Kael Weston,344774,306872,UT,2,D,False,False
+818,818,Joe Jarvis,22989,22989,UT,2,3,False,False
+819,819,John Curtis ,874311,687265,UT,3,R,True,True
+820,820,Devin Thorpe,191412,190200,UT,3,D,False,False
+821,821,Thomas G. McNeill,5516,5516,UT,3,G,False,False
+822,822,Russel Fugal,393,346,UT,3,I,False,False
+823,823,Ben McAdams ,5613542,5555591,UT,4,D,True,False
+824,824,Burgess Owens ,5129475,5049146,UT,4,R,False,True
+825,825,Jonia Broderick,21394,21265,UT,4,3,False,False
+826,826,Peter Welch ,847320,865252,VT,1,D,True,True
+827,827,Rob Wittman ,1969785,2140375,VA,1,R,True,True
+828,828,Qasim Rashid,1559108,1559108,VA,1,D,False,False
+829,829,Elaine Luria ,6522276,6387474,VA,2,D,True,True
+830,830,Scott Taylor,2452292,2446410,VA,2,R,False,False
+831,831,Bobby Scott ,873126,832419,VA,3,D,True,True
+832,832,John Collick,167146,165080,VA,3,R,False,False
+833,833,Donald McEachin ,961412,963788,VA,4,D,True,True
+834,834,Leon Benjamin,545354,523429,VA,4,R,False,False
+835,835,Cameron Webb,5755917,5750924,VA,5,D,False,False
+836,836,Bob Good ,1373867,1323530,VA,5,R,False,True
+837,837,Ben Cline ,892955,672928,VA,6,R,True,True
+838,838,Nicholas Betts,56190,54205,VA,6,D,False,False
+839,839,Abigail Spanberger ,8387680,7852213,VA,7,D,True,True
+840,840,Nick Freitas,3629431,3600108,VA,7,R,False,False
+841,841,Don Beyer ,1729482,2071906,VA,8,D,True,True
+842,842,Jeff Jordan,96035,96035,VA,8,R,False,False
+843,843,Heerak Christian Kim,2036,1921,VA,8,I,False,False
+844,844,Morgan Griffith ,873612,463916,VA,9,R,True,True
+845,845,Jennifer Wexton ,3855331,1772250,VA,10,D,True,True
+846,846,Aliscia Andrews,1567598,1413145,VA,10,R,False,False
+847,847,Gerry Connolly ,1998592,1811776,VA,11,D,True,True
+848,848,Manga Anantatmula,282152,268326,VA,11,R,False,False
+849,849,Stevan Porter,533,1316,VA,11,L,False,False
+850,850,Suzan DelBene ,2182985,1897162,WA,1,D,True,True
+851,851,Jeffrey Beeler,61970,62279,WA,1,R,False,False
+852,852,Rick Larsen ,1275127,1219489,WA,2,D,True,True
+853,853,Tim Hazelo,49478,49322,WA,2,R,False,False
+854,854,Jaime Herrera Beutler ,4566383,4540148,WA,3,R,True,True
+855,855,Carolyn Long,4130540,4142685,WA,3,D,False,False
+856,856,Dan Newhouse ,1173464,991174,WA,4,R,True,True
+857,857,Doug McKinley,57666,54227,WA,4,D,False,False
+858,858,Cathy McMorris Rodgers ,4349448,3432572,WA,5,R,True,True
+859,859,Dave Wilson,109636,109636,WA,5,D,False,False
+860,860,Derek Kilmer ,2524026,2531111,WA,6,D,True,True
+861,861,Elizabeth Kreiselmaier,156123,145108,WA,6,R,False,False
+862,862,Pramila Jayapal ,2630000,1530626,WA,7,D,True,True
+863,863,Craig Keller,2904,3703,WA,7,R,False,False
+864,864,Kim Schrier ,5422491,3774398,WA,8,D,True,True
+865,865,Jesse Jensen,852396,842269,WA,8,R,False,False
+866,866,Adam Smith ,1324761,930710,WA,9,D,True,True
+867,867,Doug Basler,22536,18328,WA,9,R,False,False
+868,868,Marilyn Strickland ,1812659,1780633,WA,10,D,False,True
+869,869,Beth Doglio,1477678,1477678,WA,10,D,False,False
+870,870,David McKinley ,1092609,1085864,WV,1,R,True,True
+871,871,Natalie Ms. Cline,81032,81881,WV,1,D,False,False
+872,872,Alex Mooney ,2155978,864001,WV,2,R,True,True
+873,873,Catherine Kunkel,641567,641567,WV,2,D,False,False
+874,874,Carol Miller ,869210,720796,WV,3,R,True,True
+875,875,Hilary Turner,99214,98769,WV,3,D,False,False
+876,876,Belinda Fox-Spencer,5207,5207,WV,3,I,False,False
+877,877,Bryan Steil ,3500849,3151701,WI,1,R,True,True
+878,878,Roger Polack,536228,526431,WI,1,D,False,False
+879,879,Mark Pocan ,1290582,1014628,WI,2,D,True,True
+880,880,Peter Theron,35753,33977,WI,2,R,False,False
+881,881,Ron Kind ,2989262,4435403,WI,3,D,True,True
+882,882,Derrick Van Orden,1962443,1948639,WI,3,R,False,False
+883,883,Gwen Moore ,1183995,1166739,WI,4,D,True,True
+884,884,Scott Fitzgerald ,1155721,968406,WI,5,R,False,True
+885,885,Tom Palzewicz,370392,371799,WI,5,D,False,False
+886,886,Glenn S Grothman ,1815756,1736659,WI,6,S,True,True
+887,887,Jessica King,287753,245788,WI,6,D,False,False
+888,888,Tom Tiffany ,2637459,2514740,WI,7,R,True,True
+889,889,Tricia Zunker,1261957,1232690,WI,7,D,False,False
+890,890,Mike Gallagher ,3202905,2841801,WI,8,R,True,True
+891,891,Amanda Stuck,416978,399916,WI,8,D,False,False
+892,892,Liz Cheney ,3003883,3060167,WY,1,R,True,True
+893,893,Lynnette Grey Bull,134597,132235,WY,1,D,False,False
